@@ -1,0 +1,11 @@
+{
+  "name": "recipient-creation-app",
+  "version": "1.0.0",
+  "description": "This is the app which will creates recipeint file for SMS,MMS,EMAIL,USSD channels for JOB TYPE 1,2 & 3",
+  "main": "CreateEmailRecipientFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gourav Panwar",
+  "license": "ISC"
+}
