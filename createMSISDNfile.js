@@ -1,5 +1,5 @@
 fs = require('fs');
-var dir = './recipeint';
+var dir = './recipient';
 
 if (!fs.existsSync(dir)){
     fs.mkdirSync(dir);
